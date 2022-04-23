@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftkp12345%2Fhit-counter&count_bg=%232CCCED&title_bg=%23555555&icon=actigraph.svg&icon_color=%23E7E7E7&title=user&edge_flat=true)](https://hits.seeyoufarm.com)
 <!--
 **tkp12345/tkp12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
