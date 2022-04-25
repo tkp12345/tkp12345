@@ -1,5 +1,5 @@
 ### welcome 👦👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23D4A7DD&title_bg=%235E5252&icon=github.svg&icon_color=%23D9C98B&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftkp12345%2Fhit-counter&count_bg=%2350A7E3&title_bg=%235E5252&icon=github.svg&icon_color=%23FFF15D&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 **tkp12345/tkp12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
